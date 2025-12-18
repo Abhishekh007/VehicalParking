@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "slot": "A1",
+      "area": "Ruf Parking",
+      "carType": "SUV",
+      "charges": "₹50/hr",
+      "isBooked": false,
+      "status": "Available",
+      "id": "b03a"
+    },
+    {
+      "slot": "B1",
+      "area": "Basement",
+      "carType": "Sedan",
+      "charges": "₹40/hr",
+      "isBooked": true,
+      "status": "Available",
+      "id": "5dc9"
+    },
+    {
+      "slot": "C1",
+      "area": "Ruf Parking",
+      "carType": "Bike",
+      "charges": "₹40/hr",
+      "isBooked": true,
+      "status": "Available",
+      "id": "5725"
+    },
+    {
+      "id": "e02e",
+      "slot": "D1",
+      "area": "Open",
+      "carType": "Bike",
+      "charges": "free",
+      "status": "Available"
+    },
+    {
+      "slot": "a",
+      "area": "open",
+      "carType": "car",
+      "charges": "free",
+      "isBooked": true,
+      "status": "Available",
+      "id": "ddc3"
+    },
+    {
+      "id": "1741987256153",
+      "slot": "b",
+      "area": "Basement",
+      "carType": "Bike",
+      "charges": "₹40/hr",
+      "isBooked": true,
+      "status": "Available"
+    },
+    {
+      "slot": "c",
+      "area": "Ruf Parking",
+      "carType": "car",
+      "charges": "₹40/hr",
+      "isBooked": true,
+      "status": "Available",
+      "id": "0f5d"
+    },
+    {
+      "id": "b230",
+      "slot": "e",
+      "area": "open",
+      "carType": "Alto",
+      "charges": "100",
+      "status": "Available"
+    },
+    {
+      "id": "a52b",
+      "slot": "e",
+      "area": "Basement",
+      "carType": "Bike",
+      "charges": "20",
+      "status": "Available"
+    }
+  ]
+}
