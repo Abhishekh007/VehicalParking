@@ -1,12 +1,27 @@
-# React + Vite
+# Vehicle Parking Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+A web-based Vehicle Parking Management System developed using PHP and MySQL.
+It helps manage vehicle entry, exit, parking slots, and admin control.
 
-Currently, two official plugins are available:
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Admin login
+- Vehicle entry & exit
+- Parking slot management
+- Vehicle records
+- Reports
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Run the Project
+1. Install XAMPP
+2. Copy project folder to `htdocs`
+3. Start Apache and MySQL
+4. Import database from `.sql` file using phpMyAdmin
+5. Open browser and run:
